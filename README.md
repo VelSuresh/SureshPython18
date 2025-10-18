@@ -1,2 +1,2 @@
 # SureshPython18
-this repository for a practicing purpose
+This Repository for a Practicing purpose
